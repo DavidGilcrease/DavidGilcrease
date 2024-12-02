@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Azure VM (creating your own)</b>
   - [Breaking down the OSticket system from an IT POV]
 
 <h2>🤳Connect with me:</h2>
