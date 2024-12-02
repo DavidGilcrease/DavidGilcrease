@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure VM (creating your own)</b>
-  - [Breaking down the OSticket system from an IT POV]
+  - [[Creating your very own Virtual Machine using Azure](https://github.com/DavidGilcrease/Azure_VM_Breakdown)]
 
 <h2>🤳Connect with me:</h2>
 
